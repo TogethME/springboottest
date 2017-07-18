@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/anfen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-comm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-comm/target/classes/META-INF/maven/com.fnps/com.fnps.comm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-dao/target/classes/META-INF/maven/com.fnps/com.fnps.dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-dao/target/m2e-jee/web-resources/META-INF/maven/cn.springbootproject.com/com.fnps.dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-service/target/classes/META-INF/maven/com.fnps/com.fnps.service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springbootproject/fnps-web/target/m2e-jee/web-resources/META-INF/maven/com.fnps/com.fnps.web" charset="UTF-8" />
+  </component>
+</project>

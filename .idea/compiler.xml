@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.fnps.comm (1)" />
+        <module name="com.fnps.dao (1)" />
+        <module name="com.fnps.dao (4)" />
+        <module name="com.fnps.dao (5) (cn.springbootproject.com)" />
+        <module name="com.fnps.service (1)" />
+        <module name="com.fnps.service (3)" />
+        <module name="com.fnps.web (1)" />
+        <module name="com.fnps.web (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="anfen-springboot" target="1.7" />
+      <module name="com.fnps.comm" target="1.5" />
+      <module name="com.fnps.comm (1)" target="1.7" />
+      <module name="com.fnps.comm (2)" target="1.5" />
+      <module name="com.fnps.comm (3)" target="1.7" />
+      <module name="com.fnps.dao (1)" target="1.7" />
+      <module name="com.fnps.dao (2)" target="1.5" />
+      <module name="com.fnps.dao (3)" target="1.7" />
+      <module name="com.fnps.dao (4)" target="1.5" />
+      <module name="com.fnps.dao (5)" target="1.7" />
+      <module name="com.fnps.dao (5) (cn.springbootproject.com)" target="1.7" />
+      <module name="com.fnps.service" target="1.5" />
+      <module name="com.fnps.service (1)" target="1.7" />
+      <module name="com.fnps.service (2)" target="1.7" />
+      <module name="com.fnps.service (3)" target="1.7" />
+      <module name="com.fnps.web" target="1.5" />
+      <module name="com.fnps.web (1)" target="1.7" />
+      <module name="com.fnps.web (2)" target="1.7" />
+      <module name="com.fnps.web (3)" target="1.7" />
+      <module name="springbootproject" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

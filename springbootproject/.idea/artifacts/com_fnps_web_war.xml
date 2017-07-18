@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com.fnps.web:war">
+    <output-path>$PROJECT_DIR$/fnps-web/target</output-path>
+    <root id="archive" name="com.fnps.web-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="com.fnps.web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anfen/anfen-springboot.iml" filepath="$PROJECT_DIR$/anfen/anfen-springboot.iml" />
+      <module fileurl="file://E:\Idea_workspace\springboot-test1\springbootproject\fnps-comm\target\classes\META-INF\maven\com.fnps\com.fnps.comm\com.fnps.comm.iml" filepath="E:\Idea_workspace\springboot-test1\springbootproject\fnps-comm\target\classes\META-INF\maven\com.fnps\com.fnps.comm\com.fnps.comm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject/fnps-comm/com.fnps.comm (1).iml" filepath="$PROJECT_DIR$/springbootproject/fnps-comm/com.fnps.comm (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject/fnps-dao/com.fnps.dao (1).iml" filepath="$PROJECT_DIR$/springbootproject/fnps-dao/com.fnps.dao (1).iml" />
+      <module fileurl="file://E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\target\m2e-jee\web-resources\META-INF\maven\cn.springbootproject.com\com.fnps.dao\com.fnps.dao (4).iml" filepath="E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\target\m2e-jee\web-resources\META-INF\maven\cn.springbootproject.com\com.fnps.dao\com.fnps.dao (4).iml" />
+      <module fileurl="file://E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\target\m2e-jee\web-resources\META-INF\maven\cn.springbootproject.com\com.fnps.dao\com.fnps.dao (5) (cn.springbootproject.com).iml" filepath="E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\target\m2e-jee\web-resources\META-INF\maven\cn.springbootproject.com\com.fnps.dao\com.fnps.dao (5) (cn.springbootproject.com).iml" />
+      <module fileurl="file://E:\Idea_workspace\springboot-test1\springbootproject\fnps-service\target\classes\META-INF\maven\com.fnps\com.fnps.service\com.fnps.service.iml" filepath="E:\Idea_workspace\springboot-test1\springbootproject\fnps-service\target\classes\META-INF\maven\com.fnps\com.fnps.service\com.fnps.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject/fnps-service/com.fnps.service (1).iml" filepath="$PROJECT_DIR$/springbootproject/fnps-service/com.fnps.service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject/fnps-service/target/classes/META-INF/maven/com.fnps/com.fnps.service/com.fnps.service (3).iml" filepath="$PROJECT_DIR$/springbootproject/fnps-service/target/classes/META-INF/maven/com.fnps/com.fnps.service/com.fnps.service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject/fnps-web/com.fnps.web (1).iml" filepath="$PROJECT_DIR$/springbootproject/fnps-web/com.fnps.web (1).iml" />
+      <module fileurl="file://E:\Idea_workspace\springboot-test1\springbootproject\fnps-web\target\m2e-jee\web-resources\META-INF\maven\com.fnps\com.fnps.web\com.fnps.web (2).iml" filepath="E:\Idea_workspace\springboot-test1\springbootproject\fnps-web\target\m2e-jee\web-resources\META-INF\maven\com.fnps\com.fnps.web\com.fnps.web (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject/fnps-web/target/m2e-jee/web-resources/META-INF/maven/com.fnps/com.fnps.web/com.fnps.web (3).iml" filepath="$PROJECT_DIR$/springbootproject/fnps-web/target/m2e-jee/web-resources/META-INF/maven/com.fnps/com.fnps.web/com.fnps.web (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject/springbootproject.iml" filepath="$PROJECT_DIR$/springbootproject/springbootproject.iml" />
+    </modules>
+  </component>
+</project>

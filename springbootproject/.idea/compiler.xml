@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.fnps.comm" />
+        <module name="com.fnps.dao" />
+        <module name="com.fnps.service" />
+        <module name="com.fnps.web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.fnps.comm" target="1.5" />
+      <module name="com.fnps.dao" target="1.5" />
+      <module name="com.fnps.service" target="1.5" />
+      <module name="com.fnps.web" target="1.5" />
+      <module name="springbootproject" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fnps-comm/com.fnps.comm.iml" filepath="$PROJECT_DIR$/fnps-comm/com.fnps.comm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnps-dao/com.fnps.dao.iml" filepath="$PROJECT_DIR$/fnps-dao/com.fnps.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnps-service/com.fnps.service.iml" filepath="$PROJECT_DIR$/fnps-service/com.fnps.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fnps-web/com.fnps.web.iml" filepath="$PROJECT_DIR$/fnps-web/com.fnps.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproject.iml" filepath="$PROJECT_DIR$/springbootproject.iml" />
+    </modules>
+  </component>
+</project>
