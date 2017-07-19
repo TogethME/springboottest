@@ -43,12 +43,13 @@ import java.util.Properties;
 @Configuration
 @ConditionalOnClass({ SqlSessionFactory.class, SqlSessionFactoryBean.class })
 //@ConditionalOnBean(DataSource.class)
-@EnableConfigurationProperties(MybatisProperties.class)
+//@EnableConfigurationProperties(MybatisProperties.class)
 @AutoConfigureAfter(DataSourceAutoConfiguration.class)
 public class MybatisAutoConfiguration {
 
     private static Log log = LogFactory.getLog(MybatisAutoConfiguration.class);
 
+    @Autowired
     private MybatisProperties properties;
 
     @Autowired(required = false)
@@ -59,7 +60,7 @@ public class MybatisAutoConfiguration {
 
     @PostConstruct
     public void checkConfigFileExists(){
-        if(this.properties ==null){
+        if(this.properties == null){
             System.out.print("mybatis 配置未读到，程序即将结束！");
             System.exit(0);
         }

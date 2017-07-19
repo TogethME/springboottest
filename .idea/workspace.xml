@@ -2,79 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16f7fa70-cf8f-4459-b35b-ce831032ab29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_3_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mapper/customer/CustomerMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/BusinessMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MyBatisMapperScannerConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisAutoConfiguration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_11_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/resources/datasource.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/classes/datasource.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/classes/com/fnps/application/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/classes/com/fnps/application/Application.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-comm/target/com.fnps.comm-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/springbootproject/fnps-comm/target/com.fnps.comm-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/classes/com/fnps/dao/customer/CustomerRepository.class" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/target/classes/com/fnps/dao/customer/CustomerRepository.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/classes/com/fnps/entities/customer/CustomerEntity.class" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/target/classes/com/fnps/entities/customer/CustomerEntity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/com.fnps.dao-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/target/com.fnps.dao-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-service/target/classes/com/fnps/services/customerservice/ICustomerService.class" afterPath="$PROJECT_DIR$/springbootproject/fnps-service/target/classes/com/fnps/services/customerservice/ICustomerService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-service/target/classes/com/fnps/services/customerservice/impl/CustomerServiceImpl.class" afterPath="$PROJECT_DIR$/springbootproject/fnps-service/target/classes/com/fnps/services/customerservice/impl/CustomerServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-service/target/com.fnps.service-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/springbootproject/fnps-service/target/com.fnps.service-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/classes/com/fnps/controllers/customer/CustomerController.class" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/classes/com/fnps/controllers/customer/CustomerController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT.war" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/classes/com/fnps/controllers/customer/CustomerController.class" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/classes/com/fnps/controllers/customer/CustomerController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/lib/com.fnps.comm-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/lib/com.fnps.comm-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/lib/com.fnps.dao-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/lib/com.fnps.dao-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/lib/com.fnps.service-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/lib/com.fnps.service-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/com_fnps_web__1__war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/com_fnps_web__1__war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/classes/com/fnps/mybaties/config/MybatisProperties.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anfen/anfen-springboot.iml" afterPath="$PROJECT_DIR$/anfen/anfen-springboot.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-comm/com.fnps.comm (1).iml" afterPath="$PROJECT_DIR$/springbootproject/fnps-comm/com.fnps.comm (1).iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-comm/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/springbootproject/fnps-comm/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/com.fnps.dao (1).iml" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/com.fnps.dao (1).iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/pom.xml" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/dao/customer/CustomerRepository.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/dao/customer/CustomerRepository.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/entities/customer/CustomerEntity.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/entities/customer/CustomerEntity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-service/com.fnps.service (1).iml" afterPath="$PROJECT_DIR$/springbootproject/fnps-service/com.fnps.service (1).iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-service/src/main/java/com/fnps/services/customerservice/ICustomerService.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-service/src/main/java/com/fnps/services/customerservice/ICustomerService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-service/src/main/java/com/fnps/services/customerservice/impl/CustomerServiceImpl.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-service/src/main/java/com/fnps/services/customerservice/impl/CustomerServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/springbootproject/fnps-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/com.fnps.web (1).iml" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/com.fnps.web (1).iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/src/main/java/com/fnps/controllers/customer/CustomerController.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/src/main/java/com/fnps/controllers/customer/CustomerController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisAutoConfiguration.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisAutoConfiguration.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/classes/application.properties" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/com.fnps.web-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/springbootproject/fnps-web/src/main/java/com/fnps/application/Application.java" afterPath="$PROJECT_DIR$/springbootproject/fnps-web/src/main/java/com/fnps/Application.java" />
     </list>
     <ignored path="$PROJECT_DIR$/springbootproject/fnps-service/target/" />
     <ignored path="$PROJECT_DIR$/springbootproject/fnps-comm/target/" />
@@ -92,16 +24,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CustomerServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootproject/fnps-service/src/main/java/com/fnps/services/customerservice/impl/CustomerServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ICustomerService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springbootproject/fnps-service/src/main/java/com/fnps/services/customerservice/ICustomerService.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,18 +37,8 @@
       <file leaf-file-name="MybatisAutoConfiguration.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisAutoConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exception.java" pinned="false" current-in-tab="false">
-        <entry file="jar://E:/JDK1.8/src.zip!/java/lang/Exception.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
-              <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            <state relative-caret-position="219">
+              <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -135,9 +47,11 @@
       <file leaf-file-name="MybatisProperties.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-608">
-              <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="56" />
-              <folding />
+            <state relative-caret-position="-41">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,18 +59,8 @@
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springbootproject/fnps-web/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyBatisMapperScannerConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MyBatisMapperScannerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="95">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -172,23 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mapper/customer/CustomerMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/anfen/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1712">
-              <caret line="106" column="42" lean-forward="true" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
+              <caret line="106" column="42" lean-forward="false" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -245,7 +137,6 @@
         <option value="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/BissnessMapper.java" />
         <option value="E:/m2/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnClass.class" />
         <option value="E:/m2/Repository/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.jar!/org/springframework/boot/context/properties/EnableConfigurationProperties.class" />
-        <option value="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java" />
         <option value="E:/m2/Repository/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class" />
         <option value="E:/m2/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/ConditionalOnMissingBean.class" />
         <option value="E:/m2/Repository/org/springframework/boot/spring-boot-autoconfigure/1.5.4.RELEASE/spring-boot-autoconfigure-1.5.4.RELEASE.jar!/org/springframework/boot/autoconfigure/condition/OnBeanCondition.class" />
@@ -265,6 +156,7 @@
         <option value="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/dao/customer/CustomerRepository.java" />
         <option value="$PROJECT_DIR$/springbootproject/fnps-service/src/main/java/com/fnps/services/customerservice/impl/CustomerServiceImpl.java" />
         <option value="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mapper/customer/CustomerMapper.java" />
+        <option value="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java" />
         <option value="$PROJECT_DIR$/springbootproject/fnps-web/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisAutoConfiguration.java" />
       </list>
@@ -396,6 +288,96 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot-test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springbootproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot-test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springbootproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fnps-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot-test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springbootproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fnps-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot-test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springbootproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fnps-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springboot-test1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="springbootproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fnps-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -964,15 +946,16 @@
       <workItem from="1499994850515" duration="1521000" />
       <workItem from="1499997436747" duration="2747000" />
       <workItem from="1500341363391" duration="8310000" />
-      <workItem from="1500426308496" duration="17611000" />
+      <workItem from="1500426308496" duration="19384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37574000" />
+    <option name="totallyTimeSpent" value="39347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1370" height="754" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -987,7 +970,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3983871" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32741934" sideWeight="0.48778626" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32580644" sideWeight="0.48778626" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
@@ -996,7 +979,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44516128" sideWeight="0.48473284" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4038168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4038168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1026,20 +1009,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-web/target/classes/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-web/target/classes/logback-test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springbootproject/fnps-web/com.fnps.web.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1180,16 +1149,6 @@
           <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/m2/Repository/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1406,31 +1365,7 @@
     <entry file="file://$PROJECT_DIR$/anfen/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1712">
-          <caret line="106" column="42" lean-forward="true" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MyBatisMapperScannerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-608">
-          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-web/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <caret line="106" column="42" lean-forward="false" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1443,10 +1378,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://E:/m2/Repository/org/springframework/boot/spring-boot/1.5.4.RELEASE/spring-boot-1.5.4.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2/Repository/org/springframework/spring-core/4.3.9.RELEASE/spring-core-4.3.9.RELEASE.jar!/org/springframework/core/io/ClassPathResource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/m2/Repository/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/stereotype/Component.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MyBatisMapperScannerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootproject/fnps-web/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springbootproject/fnps-dao/src/main/java/com/fnps/mybaties/config/MybatisAutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+        <state relative-caret-position="219">
+          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
           <folding />
         </state>
       </provider>

@@ -2,13 +2,16 @@ package com.fnps.mybaties.config;
 
 import org.apache.ibatis.session.ExecutorType;
 import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.core.io.Resource;
+import org.springframework.stereotype.Component;
 
 /**
  * Created by 淮哲琪 on 2017/7/19.
  */
-
+@Component
 @ConfigurationProperties (prefix = MybatisProperties.MYBATIS_PREFIX)
+@PropertySource("classpath:/application.properties")
 public class MybatisProperties {
     public static final String MYBATIS_PREFIX = "mybatis";
 
