@@ -1,0 +1,49 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.fnps.mybaties.config.MybatisProperties",
+      "name": "mybatis",
+      "type": "com.fnps.mybaties.config.MybatisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.fnps.mybaties.config.MybatisProperties",
+      "defaultValue": false,
+      "name": "mybatis.check-config-location",
+      "description": "Check the config file exists.",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.fnps.mybaties.config.MybatisProperties",
+      "name": "mybatis.config",
+      "description": "Config file path.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.fnps.mybaties.config.MybatisProperties",
+      "name": "mybatis.executor-type",
+      "description": "Execution mode.",
+      "type": "org.apache.ibatis.session.ExecutorType"
+    },
+    {
+      "sourceType": "com.fnps.mybaties.config.MybatisProperties",
+      "name": "mybatis.mapper-locations",
+      "description": "Location of mybatis mapper files.",
+      "type": "org.springframework.core.io.Resource[]"
+    },
+    {
+      "sourceType": "com.fnps.mybaties.config.MybatisProperties",
+      "name": "mybatis.type-aliases-package",
+      "description": "Package to scan domain objects.",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.fnps.mybaties.config.MybatisProperties",
+      "name": "mybatis.type-handlers-package",
+      "description": "Package to scan handlers.",
+      "type": "java.lang.String"
+    }
+  ]
+}

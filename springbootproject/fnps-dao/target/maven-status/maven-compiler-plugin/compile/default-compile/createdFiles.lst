@@ -1,2 +1,8 @@
-com\fnps\dao\customer\CustomerRepository.class
+com\fnps\mybaties\config\MybatisProperties.class
 com\fnps\entities\customer\CustomerEntity.class
+com\fnps\mybaties\config\MyBatisMapperScannerConfig.class
+com\fnps\mapper\customer\CustomerMapper.class
+com\fnps\mybaties\config\MybatisAutoConfiguration.class
+com\fnps\dao\customer\CustomerRepository.class
+META-INF\spring-configuration-metadata.json
+com\fnps\mybaties\config\BusinessMapper.class

@@ -1,2 +1,7 @@
 E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\src\main\java\com\fnps\entities\customer\CustomerEntity.java
+E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\src\main\java\com\fnps\mybaties\config\BusinessMapper.java
 E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\src\main\java\com\fnps\dao\customer\CustomerRepository.java
+E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\src\main\java\com\fnps\mybaties\config\MybatisProperties.java
+E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\src\main\java\com\fnps\mybaties\config\MyBatisMapperScannerConfig.java
+E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\src\main\java\com\fnps\mybaties\config\MybatisAutoConfiguration.java
+E:\Idea_workspace\springboot-test1\springbootproject\fnps-dao\src\main\java\com\fnps\mapper\customer\CustomerMapper.java

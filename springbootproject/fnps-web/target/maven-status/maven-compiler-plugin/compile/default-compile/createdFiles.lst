@@ -1,2 +1,2 @@
-com\fnps\application\Application.class
+com\fnps\Application.class
 com\fnps\controllers\customer\CustomerController.class
